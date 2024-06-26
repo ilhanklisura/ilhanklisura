@@ -7,10 +7,10 @@ Software Developer | Startup Enthusiast
 * 🌍  I'm based in Sarajevo, Bosnia and Herzegovina
 * 🖥️  See my portfolio at [ilhanklisura.com](http://ilhanklisura.com)
 * ✉️  You can contact me at [work@ilhanklisura.com](mailto:work@ilhanklisura.com)
-* 🚀  I'm currently working at [Orbicode d.o.o.](http://orbicode.com/)
-* 🧠  I'm learning C#, ASP.NET Core, Vue.js
+* 🚀  I'm working at [Orbicode d.o.o.](http://orbicode.com/)
+* 🧠  I'm learning C#, ASP.NET Core
 * 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  During my free time, I enjoy traveling, discovering entrepreneurship, and architecture
+* ⚡  During my free time, I enjoy traveling, startups, and architecture
 
 ### Skills
 
