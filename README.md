@@ -8,9 +8,9 @@ Software Developer | Startup Enthusiast
 * 🖥️  See my portfolio at [ilhanklisura.com](http://ilhanklisura.com)
 * ✉️  You can contact me at [work@ilhanklisura.com](mailto:work@ilhanklisura.com)
 * 🚀  I'm working at [Orbicode d.o.o.](http://orbicode.com/)
-* 🧠  I'm learning C#, ASP.NET Core
+* 🧠  I'm learning Elixir and Phoenix
 * 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  During my free time, I enjoy traveling, startups, and architecture
+* ⚡  During my free time, I enjoy travelling, architecture and startups
 
 ### Skills
 
