@@ -8,8 +8,8 @@ Software Engineer
 * 🖥️  Check out my portfolio at [ilhanklisura.com](https://ilhanklisura.com)
 * ✉️  You can contact me at [work@ilhanklisura.com](mailto:work@ilhanklisura.com)
 * 🚀  I'm working at [Orbicode d.o.o.](http://orbicode.com/)
-* 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  During my free time, I enjoy travelling, architecture and startups
+* 👨🏼‍💻 Currently learning Golang
+* ⚡  During my free time, I enjoy travelling, architecture, technology and electronics
 
 ### Skills
 
