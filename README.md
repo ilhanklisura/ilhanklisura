@@ -11,13 +11,9 @@ I'm a **Software Engineer** passionate about backend and full-stack development.
 
 ### 📊 GitHub Stats
 
-| Stats | 
-|-------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhanklisura&show_icons=true&theme=radical) |
-
-| Most Used Languages |
-|---------------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhanklisura&layout=compact&theme=radical) |
+| Stats | Most Used Languages |
+|-------|---------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhanklisura&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhanklisura&layout=compact&theme=radical) |
 
 ---
 
