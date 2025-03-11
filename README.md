@@ -13,7 +13,7 @@ I'm a **Software Engineer** passionate about backend and full-stack development.
 
 | Stats | GitHub Profile |
 |-------|--------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhanklisura&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhanklisura&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhanklisura&show_icons=true&theme=radical) |
 
 | Most Used Languages |
 |---------------------|
@@ -25,8 +25,8 @@ I'm a **Software Engineer** passionate about backend and full-stack development.
 
 | **Category**  | **Technologies**  |
 |--------------|------------------|
-| **Languages** | C#, PHP, JavaScript, SQL, Golang (learning) |
-| **Backend** | ASP.NET Core, Laravel |
+| **Languages** | C#, PHP, JavaScript, SQL, Golang |
+| **Backend** | ASP.NET Core, Laravel, (Fiber, Echo, Gin) |
 | **Frontend** | Vue.js, React.js, Tailwind CSS |
 | **Databases** | SQL Server, MySQL, MongoDB |
 | **DevOps & Networking** | Docker, Kubernetes, Nginx, Cisco CCNA |
