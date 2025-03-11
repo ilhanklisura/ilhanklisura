@@ -11,8 +11,8 @@ I'm a **Software Engineer** passionate about backend and full-stack development.
 
 ### 📊 GitHub Stats
 
-| Stats | GitHub Profile |
-|-------|--------------|
+| Stats | 
+|-------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhanklisura&show_icons=true&theme=radical) |
 
 | Most Used Languages |
